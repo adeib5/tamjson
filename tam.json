@@ -1,0 +1,15 @@
+   [
+     {
+       "nama": "Resident Evil Requiem",
+       "deskripsi": "Survival Horror seri 9 dari Capcom",
+       "tahun": "2026",
+       "image_url": "https://raw.githubusercontent.com/adeibrahim/praktam3/main/re9.jpg"
+     },
+     {
+       "nama": "Elden Ring",
+       "deskripsi": "Action RPG buatan FromSoftware",
+       "tahun": "2022",
+       "image_url": "https://raw.githubusercontent.com/adeibrahim/praktam3/main/elden.jpg"
+     }
+   ]
+   
